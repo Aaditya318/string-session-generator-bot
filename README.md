@@ -23,13 +23,10 @@ Generate Pyrogram String Session Using this bot.
 - [CHANNEL](https://telegram.me/tobot_update)
 - [GROUP](https://telegram.me/tobotupdate)
 
-### Note:
-This was First made by [Krishna Singhal](https://github.com/Krishna-Singhal). And I am very lazy to add README.md for this repo so taken the README.MD from [Abir Hasan](https://github.com/AbirHasan2005). I made small changes in this repo to make easy for the beginners to deploy.
-
 ## Follow on:
 <p align="left">
-<a href="https://github.com/Prabhasha-p"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://telegram.me/tobot_update"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ"><img src="https://img.shields.io/badge/YouTube-Channel-red.svg?logo=youtube"></a>
+<a href="https://youtube.com/channel/UCsWcAVpYAY6PJNDV1bSD62Q"><img src="https://img.shields.io/badge/YouTube-Channel-red.svg?logo=youtube"></a>
 </p>
