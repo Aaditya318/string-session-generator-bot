@@ -16,7 +16,7 @@ from pyrogram.errors import (
 
 API_TEXT = """🙋‍♂ Hi {},
 
-I am a String Session generator bot.
+I am a String Session generator bot you need to join @tobot_update to use me.
 
 For generating string session send me your `API_ID` 🐿
 """
