@@ -228,15 +228,15 @@ __📝 Language:__ [Python3](https://www.python.org/)
 
 __🧰 Framework:__ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Ns_AnoNymouS)
+__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/bot_update)
 
-__📢 Channel:__ [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+__📢 Channel:__ [UPDATES](https://t.me/tobotupdate)
 
-__👥 Group:__ [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+__👥 Group:__ [SUPPORT](https://t.me/tobotupdate)
 
-__🌐 Source Code:__ [Press Me 😋](https://github.com/Ns-AnoNymouS/string-session-generator-bot)
+__🤖 MORE BOT:__ [Press Me 😋](https://t.me/tobot_list)
 
-__🚀 YouTube Channel:__ [Ns Bots](https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ)
+__🚀 YouTube Channel:__ [Ns Bots](https://youtube.com/channel/UCsWcAVpYAY6PJNDV1bSD62Q)
 """
 
     buttons = [[
