@@ -228,15 +228,15 @@ __📝 Language:__ [Python3](https://www.python.org/)
 
 __🧰 Framework:__ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/bot_update)
+__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/bot_devloaper)
 
-__📢 Channel:__ [UPDATES](https://t.me/tobotupdate)
+__📢 Channel:__ [UPDATES](https://t.me/tobot_update)
 
 __👥 Group:__ [SUPPORT](https://t.me/tobotupdate)
 
 __🤖 MORE BOT:__ [Press Me 😋](https://t.me/tobot_list)
 
-__🚀 YouTube Channel:__ [Ns Bots](https://youtube.com/channel/UCsWcAVpYAY6PJNDV1bSD62Q)
+__🚀 YouTube Channel:__ [TOBOT UPDATE](https://youtube.com/channel/UCsWcAVpYAY6PJNDV1bSD62Q)
 """
 
     buttons = [[
